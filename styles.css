@@ -1,0 +1,171 @@
+.outer{
+    height: 615px;
+    width: 350px;
+    background-color: rgb(145, 114, 236);
+    margin-left: 5rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
+.inner{
+    height: 600px;
+    width: 337px;
+    background-color: black;
+    border-radius: 2rem;
+    position: relative;
+    top: 8px;
+    left: 6px;
+}
+.wallpaper{
+    height: 593px;
+    width: 329px;
+    border-radius: 2rem;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+}
+.header{
+    position: absolute;
+    display: flex;
+}
+.time{
+    background-color: rgb(69, 235, 69);
+    width: 50px;
+    height: 15px;
+    border-radius: 2rem;
+    position: absolute;
+    top: 0.7rem;
+    left: 1.4rem;
+}
+.pm{
+    color: white;
+    padding-left: 0.5rem;
+    padding-top: 0rem;
+    font-size: 0.9rem;
+}
+.cam{
+    width: 180px;
+    background-color: black;
+    height: 30px;
+    border-radius: 2rem;
+    position: absolute;
+    top: 0rem;
+    left: 5rem;
+    display: flex;
+}
+.btn{
+    padding-left: 60px;
+    padding-top: 3px;
+}
+.speaker{
+    width: 50px;
+    height: 10px;
+    border-radius: 2rem;
+    background-color: rgb(45, 44, 44);
+}
+.signal{
+    padding-left: 264px;
+    height: 24px;
+    padding-top: 5px;
+}
+.battery{
+    padding-top: 6px;
+    height: 24px;
+}
+.body{
+    position: absolute;
+}
+.lock{
+    padding-left: 163px;
+    padding-top: 45px;
+}
+.text{
+    color: white;
+    padding-left: 90px;
+    font-size: 1.3rem;
+}
+.clock{
+    color: white;
+    padding-left: 94px;
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    position: absolute;
+    padding-top: 535px;
+    padding-left: 30px;
+}
+.came{
+    padding-left: 170px;
+}
+.IPHONE{
+    display: flex;
+}
+.back{
+    height: 615px;
+    width: 350px;
+    background-color: rgb(145, 114, 236);
+    margin-left: 2rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
+.binner{
+    height: 600px;
+    width: 337px;
+    background-color: rgb(157, 128, 246);
+    border-radius: 2rem;
+    position: relative;
+    top: 8px;
+    left: 6px;
+}
+.box{
+    background-color:  rgb(157, 128, 246);
+    width: 8rem;
+    height: 8rem;
+    border-radius: 0.9rem;
+    position: absolute;
+    top: 0.9rem;
+    left: 1.2rem;
+    box-shadow: 2px 2px 5px rgb(36, 7, 124);
+}
+.cam1{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 3rem;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.cam2{
+    height: 50px;
+    width: 50px;
+    background-color:black;
+    border-radius: 3rem;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.speaker1{
+    height: 13px;
+    width: 13px;
+    background-color: rgb(95, 92, 92);
+    border-radius: 2rem;
+    position: absolute;
+    top: 2rem;
+    left: 85px;
+    box-shadow: 2px 2px;
+}
+.flash{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(244, 236, 236);
+    border-radius: 2rem;
+    position: absolute;
+    top: 3.5rem;
+    left: 85px;
+    box-shadow: 2px 2px;
+}
+.logo{
+    position: absolute;
+    top: 14rem;
+    left: 7.9rem;
+    
+}
